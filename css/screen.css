@@ -93,6 +93,13 @@ section .content h2 {
 	padding-bottom: 5px;
 }
 
+section .content h3 {
+	font-size: 16px;
+	line-height: 20px;
+	font-weight:bold;
+	color: #666;
+}
+
 section .content ul {
 	margin-bottom: 20px;
 	list-style: disc outside;
