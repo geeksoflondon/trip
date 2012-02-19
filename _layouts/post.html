@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<article>
+  <h1>
+    <a href="{{ page.url }}">{{ page.title }}</a>
+  </h1>
+  <p class="author">
+    Posted by {{page.author}} on <span class="date">{{page.date | date_to_string}}</span>
+  </p>
+  {{ page.content }}
+</article>

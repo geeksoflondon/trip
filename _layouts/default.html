@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Big Geek Trip | Geeks Of London</title>
+    <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen" title="stylesheet" charset="utf-8">
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript" charset="utf-8"></script>
+  </head>
+  <body>
+    {% include header.html %}
+    <section>
+      <div class='wrapper'>
+        {% include navigation.html %}
+        <div class='content'>
+          {{ content }}
+        </div>
+      </div>
+    </section>
+    {% include footer.html %}
+  </body>
+</html>

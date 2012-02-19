@@ -1,0 +1,154 @@
+@import url("reset.css");
+
+body {
+	background-color: #efefef;
+	margin-top: 20px;
+	font-family: 'Lato', sans-serif;
+	line-height: 1.47em;
+}
+
+a {
+	color: #3c595c;
+}
+
+strong {
+	font-weight: bold;
+}
+
+p {
+	margin-bottom: 20px;
+}
+
+
+hr {
+	border: 0px;
+	height: 1px;
+	background-color: #dadada;
+	margin-bottom: 20px;
+}
+
+header {
+	background-color: #f9f9f9;
+	border-bottom: 1px solid #d5d5d5;
+	border-top: 1px solid #d5d5d5;
+	padding: 20px 0px;
+}
+
+section {
+	padding: 20px 0px;
+	overflow: auto;
+	background-color: #fff;
+	border-bottom: 1px solid #d5d5d5;
+	padding-bottom: 40px;
+}
+
+section aside {
+	float: left;
+	width: 140px;
+	text-align: right;
+	border-bottom: 1px solid #ddd;
+}
+
+section aside li {
+	padding: 5px 3px;
+	border-top: 1px solid #ddd;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+section aside a {
+	text-decoration: none;
+	color: #333;
+}
+
+section aside .active {
+	background-color: #f9f9f9;
+}
+
+section aside .active a {
+	color: #3c595c;
+}
+
+section .content {
+	float: right;
+	width: 475px;
+}
+
+section article {
+	margin-bottom: 40px;
+}
+
+section article h1 {
+	font-size: 30px;
+	font-weight:bold;
+}
+
+section .content h2 {
+	font-size: 24px;
+	line-height: 32px;
+	font-weight:bold;
+	margin-bottom: 5px;
+	color: #3c595c;
+	border-bottom: 1px solid #dadada;
+	padding-bottom: 5px;
+}
+
+section .content ul {
+	margin-bottom: 20px;
+	list-style: disc outside;
+	margin-left: 20px;
+}
+
+section article h1 a {
+	text-decoration: none;
+}
+
+section article .author {
+	font-size: 13px;
+}
+
+section .content .info {
+	background-color: #f2f2f2;
+	padding: 10px 20px;
+	margin-bottom: 20px;
+}
+
+section .content .info ul {
+	margin-bottom: 0px;
+}
+
+.wrapper {
+	width: 640px;
+	margin: 0px auto;
+}
+
+.pagination {
+	background-color: #fafafa;
+	border-bottom: 1px solid #ddd;
+	border-top: 1px solid #ddd;
+	padding: 3px 5px;
+	text-align: center;
+	font-size: 13px;
+}
+
+.pagination .previous {
+	float: left;
+	text-decoration: none;
+}
+
+.pagination .next {
+	float: right;
+	text-decoration: none;
+}
+
+footer {
+	background-color: #fafafa;
+	border-bottom: 1px solid #ddd;
+	font-size: 0.8em;
+	padding: 3px 0px;
+}
+
+footer .wrapper {
+	width: 480px;
+	padding-left: 170px;
+}
