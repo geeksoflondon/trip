@@ -124,6 +124,21 @@ section .content .info ul {
 	margin-bottom: 0px;
 }
 
+section .content a.button {
+	display: block;
+	border: 2px solid #3E6B6E;
+	padding: 5px 30px;
+	margin: 0 0 20px 0;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	font-size: 20px;
+	background-color: white;
+	behavior: url(border-radius.htc);
+	text-align: center;
+}
+
 .wrapper {
 	width: 640px;
 	margin: 0px auto;
