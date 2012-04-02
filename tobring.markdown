@@ -11,7 +11,6 @@ There will be time for a short break in Brussels before heading to Rotterdam and
 
 The meeting place inside St Pancreas is outside Eurostar Reservations next to the luggage trolleys. Please arrive before TIME at the latest to make sure there is enough time to issue your ticket. 
 
-
 ##What do I need to bring to Delft?
 
 ###Personal Stuff
@@ -19,10 +18,14 @@ The meeting place inside St Pancreas is outside Eurostar Reservations next to th
 * Your self
 * Your passport or National ID Card (for EU residents)
 * €65 cash for the kitty
+* Toiletries
+* Towel
 
 ###Clothes
 
 We do not have anything specific but we suggest you don't bring your Sunday best. You also will probably needs things you don't mind getting muddy or wet.
+
+A pair of trainers you do not mind destroying will not go a miss either!
 
 ###Sleeping 
 
@@ -35,7 +38,7 @@ We will have three dorms. Last year this was split (snoring / non-snoring / ladi
 
 ###Other
 
-What ever you like but you will need to be able to carry it all the way to Delft.
+What ever you like but you will need to be able to carry it all the way to Delft. Their are no shops nearby the Armoury with the town centre being about a 20 minute walk.
 
 ###Questions?
 
