@@ -50,7 +50,7 @@ The &euro;65 should be enough to keep you fed during the trip it includes:
 
 It is possible that we may run out of kitty money so please dont be suprised if we ask for an extra &euro;5 or &euro;10 at some point.
 
-###Food
+##Food
 
 Below you will find a rough guide based on last year and not everything will be there till Thursday.
 
