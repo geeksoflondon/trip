@@ -9,7 +9,7 @@ We will be travelling on the 10:57 Eurostar departure from London St Pancreas to
 
 There will be time for a short break in Brussels before heading to Rotterdam and finally Delft South.
 
-The meeting place inside St Pancreas is outside Eurostar Reservations next to the luggage trolleys. Please arrive before 10am at the latest to make sure there is enough time to issue your ticket and clear security. 
+The meeting place inside St Pancras is outside Eurostar Reservations next to the luggage trolleys. Please arrive before 10am at the latest to make sure there is enough time to issue your ticket and clear security. 
 
 ##What do I need to bring to Delft?
 
@@ -43,4 +43,4 @@ What ever you like but you will need to be able to carry it all the way to Delft
 
 ###Questions?
 
-We are here to help just email help@geeksoflondon.com 
+We are here to help just email help@geeksoflondon.com
