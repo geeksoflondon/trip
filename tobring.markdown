@@ -3,13 +3,17 @@ layout: default
 title: trip
 ---
 
-##How are we getting there?
+##How are we getting there and back?
 
 We will be travelling on the 10:57 Eurostar departure from London St Pancreas to Brussels on Wednesday 2nd May.
 
-There will be time for a short break in Brussels before heading to Rotterdam and finally Delft South.
+There will be time for a quick change in Brussels heading to Rotterdam at 14:18 and finally arriving at Delft South at 16:25.
 
 The meeting place inside St Pancras is outside Eurostar Reservations next to the luggage trolleys. Please arrive before 10am at the latest to make sure there is enough time to issue your ticket and clear security. 
+
+On the return leg we will be leaving The Kruithuis at 10am to arrive in Brussels for 1pm. Our departure time from Brussels is 15:56 so there will be plenty of time to see the famous [Manneken Pis](http://en.wikipedia.org/wiki/Manneken_Pis) and grab some Frittes, Beer or Truffles!
+
+We will arrive back in London St Pancras at 16:57 
 
 ##What do I need to bring to Delft?
 
