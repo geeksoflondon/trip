@@ -81,10 +81,10 @@ We have a food section in this [google doc](https://docs.google.com/document/d/1
 * Piles of excellent fruit
 * Chocolates, Sweets and Biscuits
 
-###Other
+##Other
 
 What ever you like but you will need to be able to carry it all the way to Delft. Their are no shops nearby the Armoury with the town centre being about a 20 minute walk.
 
-###Questions?
+##Questions?
 
 We are here to help just email help@geeksoflondon.com or find us in #geeksoflondon on freenode!
