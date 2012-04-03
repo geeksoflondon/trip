@@ -17,7 +17,7 @@ The meeting place inside St Pancreas is outside Eurostar Reservations next to th
 
 * Your self
 * Your passport or National ID Card (for EU residents)
-* €65 cash for the kitty
+* &euro;65 cash for the kitty
 * Toiletries
 * Towel
 
