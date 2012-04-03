@@ -19,7 +19,7 @@ We will arrive back in London St Pancras at 16:57
 
 ###Personal Stuff
 
-* Your self
+* Yourself
 * Your passport or National ID Card (for EU residents)
 * &euro;65 cash for the kitty
 * Any other spending money
@@ -30,7 +30,7 @@ We will arrive back in London St Pancras at 16:57
 
 We do not have anything specific but we suggest you don't bring your Sunday best. You also will probably needs things you don't mind getting muddy or wet.
 
-A pair of trainers you do not mind destroying will not go a miss either!
+A pair of trainers you do not mind destroying will not go amiss either!
 
 ###Sleeping 
 
@@ -38,7 +38,7 @@ The bunk beds come equipped with a basic form mattress and a pillow so you will 
 
 * A sleeping bag
 * A single size base sheet and pillow case
-* A pillow if you dont like the dutch ones ;) 
+* A pillow if you don't like the Dutch ones ;) 
 
 We will have three dorms. Last year this was split (snoring / non-snoring / ladies).
 
@@ -48,13 +48,13 @@ The &euro;65 should be enough to keep you fed during the trip it includes:
 * Breakfast & dinner every day at the Kruithuis
 * A good supply of beer, wine and soft drinks
 
-It is possible that we may run out of kitty money so please dont be suprised if we ask for an extra &euro;5 or &euro;10 at some point.
+It is possible that we may run out of kitty money so please don't be suprised if we ask for an extra &euro;5 or &euro;10 at some point.
 
 ##Food
 
 Below you will find a rough guide based on last year and not everything will be there till Thursday.
 
-Remember everyone is expected to lend a hand in prep, cooking and clean up.
+Remember everyone is expected to lend a hand in doing food preparation, cooking and cleaning up.
 
 <strong>Breakfast</strong>
 
@@ -66,11 +66,11 @@ Remember everyone is expected to lend a hand in prep, cooking and clean up.
 
 <strong>Dinner</strong>
 
-Our team of expert chefs including YOU will prepare amazing mouth watering dishes every evening (We hope your skills are upto to scratch).
+Our team of expert chefs including YOU will prepare amazing mouth watering dishes every evening (We hope your skills are up to scratch).
 
 Last year we cooked everything from simple but elegant pasta dishes to a full Sunday roast so anything is possible.
 
-We have a food section in this [google doc](https://docs.google.com/document/d/1PjsmphTOOde_OKEv2Og-xNcsuyvomqn84MnPCcnvUIA/edit) where we are discussing ideas!
+We have a food section in this [Google Doc](https://docs.google.com/document/d/1PjsmphTOOde_OKEv2Og-xNcsuyvomqn84MnPCcnvUIA/edit) where we are discussing ideas!
 
 <strong>Drinks and Snacks</strong>
 
@@ -79,12 +79,12 @@ We have a food section in this [google doc](https://docs.google.com/document/d/1
 * Probably some spirits including one which is bright orange
 * Lots of water, juices and soft drinks too!
 * Piles of excellent fruit
-* Chocolates, Sweets and Biscuits
+* Chocolates, sweets and biscuits
 
 ##Other
 
-What ever you like but you will need to be able to carry it all the way to Delft. Their are no shops nearby the Armoury with the town centre being about a 20 minute walk.
+Whatever you like but you will need to be able to carry it all the way to Delft. Their are no shops near to the Armoury and the town centre is about a 20 minute walk.
 
 ##Questions?
 
-We are here to help just email help@geeksoflondon.com or find us in #geeksoflondon on freenode!
+We are here to help just email help@geeksoflondon.com or find us in [#geeksoflondon](irc://irc.freenode.net/geeksoflondon) on freenode!
