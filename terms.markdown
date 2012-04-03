@@ -17,4 +17,5 @@ The Geek Trip is a pay to attend event organised by Geeks of London Limited, the
 * Geeks of London is a company limited by guarantee and we are not ABTA or IATA bonded so there is no underwriting of this trip incase of bankruptcy, act of god, or Force majeure etc.
 * All bookings are final and refunds will only be issued if you can find someone to take your place.
 * For attendees traveling via Eurostar, Geeks of London Limited will purchase tickets for travel on your behalf however you are responsible for making sure you have all relevant travel documents e.g. passport.
+* Prices for trips involving Eurostar booked after March 1st 2012 are subject to change dependent on Eurostar ticket prices and availability.
 * The don't be a dick code of ethics applies. 

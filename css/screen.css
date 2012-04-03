@@ -69,6 +69,14 @@ section aside .active a {
 	color: #3c595c;
 }
 
+section aside .highlight {
+	background-color: #3c595c;
+}
+
+section aside .highlight a {
+	color: white;
+}
+
 section .content {
 	float: right;
 	width: 475px;
@@ -98,6 +106,7 @@ section .content h3 {
 	line-height: 20px;
 	font-weight:bold;
 	color: #666;
+	margin-bottom: 10px;
 }
 
 section .content ul {
@@ -126,17 +135,27 @@ section .content .info ul {
 
 section .content a.button {
 	display: block;
-	border: 2px solid #3E6B6E;
-	padding: 5px 30px;
+	padding: 10px 30px;
 	margin: 0 0 20px 0;
 	border-radius: 5px;
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
 	-khtml-border-radius: 5px;
 	font-size: 20px;
-	background-color: white;
-	behavior: url(border-radius.htc);
+	background-color: #3E6B6E;
+	color: #fff;
+	text-decoration: none;
 	text-align: center;
+}
+
+section .content a.button:hover {
+	opacity: 0.8;
+	-moz-opacity: 0.8;
+	filter:alpha(opacity=80);
+}
+
+section .content img{
+	width: 475px;
 }
 
 .wrapper {
