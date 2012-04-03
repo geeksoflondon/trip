@@ -5,11 +5,11 @@ title: trip
 
 ##How are we getting there?
 
-We will be travelling on the TIME Eurostar departure from London St Pancreas to Brussels on Wednesday 2nd May.
+We will be travelling on the 10:57 Eurostar departure from London St Pancreas to Brussels on Wednesday 2nd May.
 
 There will be time for a short break in Brussels before heading to Rotterdam and finally Delft South.
 
-The meeting place inside St Pancreas is outside Eurostar Reservations next to the luggage trolleys. Please arrive before TIME at the latest to make sure there is enough time to issue your ticket. 
+The meeting place inside St Pancreas is outside Eurostar Reservations next to the luggage trolleys. Please arrive before 10am at the latest to make sure there is enough time to issue your ticket and clear security. 
 
 ##What do I need to bring to Delft?
 
@@ -33,6 +33,7 @@ The bunk beds come equipped with a basic form mattress and a pillow so you will 
 
 * A sleeping bag
 * A single size base sheet and pillow case
+* A pillow if you dont like the dutch ones ;) 
 
 We will have three dorms. Last year this was split (snoring / non-snoring / ladies).
 
