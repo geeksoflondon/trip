@@ -7,11 +7,11 @@ title: trip
 
 We will be travelling on the 10:57 Eurostar departure from London St Pancreas to Brussels on Wednesday 2nd May.
 
-There will be time for a quick change in Brussels heading to Rotterdam at 14:18 and finally arriving at Delft South at 16:25.
+Their will be time for a quick change in Brussels heading to Rotterdam at 14:18 and finally arriving at Delft South at 16:25.
 
 The meeting place inside St Pancras is outside Eurostar Reservations next to the luggage trolleys. Please arrive before 10am at the latest to make sure there is enough time to issue your ticket and clear security. 
 
-On the return leg we will be leaving The Kruithuis at 10am to arrive in Brussels for 1pm. Our departure time from Brussels is 15:56 so there will be plenty of time to see the famous [Manneken Pis](http://en.wikipedia.org/wiki/Manneken_Pis) and grab some Frittes, Beer or Truffles!
+On the return leg we will be leaving The Kruithuis at 10am to arrive in Brussels for 1pm. Our departure time from Brussels is 15:56 so their will be plenty of time to see the famous [Manneken Pis](http://en.wikipedia.org/wiki/Manneken_Pis) and grab some Frittes, Beer or Truffles!
 
 We will arrive back in London St Pancras at 16:57 
 
@@ -22,6 +22,7 @@ We will arrive back in London St Pancras at 16:57
 * Your self
 * Your passport or National ID Card (for EU residents)
 * &euro;65 cash for the kitty
+* Any other spending money
 * Toiletries
 * Towel
 
@@ -41,10 +42,49 @@ The bunk beds come equipped with a basic form mattress and a pillow so you will 
 
 We will have three dorms. Last year this was split (snoring / non-snoring / ladies).
 
+###The Kitty
+The &euro;65 should be enough to keep you fed during the trip it includes:
+
+* Breakfast & dinner every day at the Kruithuis
+* A good supply of beer, wine and soft drinks
+
+It is possible that we may run out of kitty money so please dont be suprised if we ask for an extra &euro;5 or &euro;10 at some point.
+
+###Food
+
+Below you will find a rough guide based on last year and not everything will be there till Thursday.
+
+Remember everyone is expected to lend a hand in prep, cooking and clean up.
+
+<strong>Breakfast</strong>
+
+* Cereal
+* Various Breads
+* Yogurt
+* Eggs
+* Imported British Bacon
+
+<strong>Dinner</strong>
+
+Our team of expert chefs including YOU will prepare amazing mouth watering dishes every evening (We hope your skills are upto to scratch).
+
+Last year we cooked everything from simple but elegant pasta dishes to a full Sunday roast so anything is possible.
+
+We have a food section in this [google doc](https://docs.google.com/document/d/1PjsmphTOOde_OKEv2Og-xNcsuyvomqn84MnPCcnvUIA/edit) where we are discussing ideas!
+
+<strong>Drinks and Snacks</strong>
+
+* A excellent selection of local beers
+* More a few bottles of wine
+* Probably some spirits including one which is bright orange
+* Lots of water, juices and soft drinks too!
+* Piles of excellent fruit
+* Chocolates, Sweets and Biscuits
+
 ###Other
 
 What ever you like but you will need to be able to carry it all the way to Delft. Their are no shops nearby the Armoury with the town centre being about a 20 minute walk.
 
 ###Questions?
 
-We are here to help just email help@geeksoflondon.com
+We are here to help just email help@geeksoflondon.com or find us in #geeksoflondon on freenode!
