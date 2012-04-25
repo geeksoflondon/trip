@@ -25,12 +25,15 @@ We will arrive back in London St Pancras at 16:57
 * Any other spending money
 * Toiletries
 * Towel
+* Torch
 
 ###Clothes
 
 We do not have anything specific but we suggest you don't bring your Sunday best. You also will probably needs things you don't mind getting muddy or wet.
 
 A pair of trainers you do not mind destroying will not go amiss either!
+
+Finally it gets cold during the evenings so it is worth bringing a good jumper if you want to join us around the fire. 
 
 ###Sleeping 
 
